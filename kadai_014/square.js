@@ -1,4 +1,4 @@
 const square = (input) => {
-console.log(input ** 2);
+return input ** 2;
 };
-square(10);
+console.log(square(10));
